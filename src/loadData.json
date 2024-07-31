@@ -1,0 +1,171 @@
+{
+    "data": [
+        {
+            "ID":"7" ,
+            "coordinate": [
+                [15,35],   
+                [14.5, 35]
+            ]
+        },
+        {
+            "ID":"10" ,
+            "markerCoordinate": [24.8, 31.7],
+            "coordinate": [
+                [18,32.35],  
+                [17.5,32.35]
+            ]
+        },
+        {
+            "ID":"12" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [18,28.75],   
+                [17.5,28.75]
+            ]
+        },
+        {
+            "ID":"14" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [20, 26.5],   
+                [19.5, 26.5]
+            ]
+        },
+        {
+            "ID":"21" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [20,35],   
+                [19.5,35]
+            ]
+        },
+        {
+            "ID":"23" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [26,30.75],   
+                [25.5,30.75]
+            ]
+        },
+        {
+            "ID":"24" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [22, 36.5],   
+                [21.5, 36.5]
+            ]
+        },
+        {
+            "ID":"8" ,
+            "coordinate": [
+                [16,42.25],   
+                [15.5,42.25]
+            ]
+        },
+        {
+            "ID":"15" ,
+            "markerCoordinate": [24.8, 31.7],
+            "coordinate": [
+                [22,29],  
+                [21.5,29]
+            ]
+        },
+        {
+            "ID":"16" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [22,31],   
+                [21.5,31]
+            ]
+        },
+        {
+            "ID":"17" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [20, 31],   
+                [19.5, 31]
+            ]
+        },
+        {
+            "ID":"18" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [24,30.75],   
+                [23.5,30.75]
+            ]
+        },
+        {
+            "ID":"19" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [22,33],   
+                [21.5,33]
+            ]
+        },
+        {
+            "ID":"20" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [20,33],   
+                [19.5,33]
+            ]
+        },
+        {
+            "ID":"2" ,
+            "coordinate": [
+                [14,29],   
+                [13.5,29]
+            ]
+        },
+        {
+            "ID":"3" ,
+            "markerCoordinate": [24.8, 31.7],
+            "coordinate": [
+                [16,28.75],  
+                [15.5,28.75]
+            ]
+        },
+        {
+            "ID":"4" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [16,30.75],   
+                [15.5,30.75]
+            ]
+        },
+        {
+            "ID":"5" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [14,32.5],   
+                [13.5,32.5]
+            ]
+        },
+        {
+            "ID":"26" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [20,38.75],   
+                [19.5,38.75]
+            ]
+        },
+        {
+            "ID":"29" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [26,39],   
+                [25.5,39]
+            ]
+        },
+        {
+            "ID":"30" ,
+            "markerCoordinate": [26.3, 31.7],
+            "coordinate": [
+                [26,36.5],   
+                [25.5,36.5]
+            ]
+        }
+        
+        
+    ]
+}
